@@ -1,0 +1,42 @@
+#modern_slider_metabox {
+  /*
+  .ms-overlay-color-field,
+  .ms-overlay-alpha-field {
+    display: none;
+  }
+  */ }
+  #modern_slider_metabox .cmb-repeatable-group .cmb-group-title {
+    background-color: #000;
+    color: #fff;
+    cursor: pointer; }
+  #modern_slider_metabox .cmb-repeatable-grouping {
+    border-bottom-color: #000;
+    border-left-color: #000;
+    border-right-color: #000; }
+  #modern_slider_metabox .button-secondary {
+    background-color: transparent;
+    box-shadow: none;
+    border-color: #000;
+    color: #000;
+    font-weight: bold;
+    border-radius: 0; }
+    #modern_slider_metabox .button-secondary:hover {
+      background-color: #4a90e2;
+      border-color: #4a90e2;
+      color: #fff; }
+  #modern_slider_metabox .cmb2-metabox button.dashicons-before.dashicons-no-alt.cmb-remove-group-row:not([disabled]) {
+    color: #fff; }
+  #modern_slider_metabox .cmb2-metabox .cmbhandle {
+    color: #fff; }
+  #modern_slider_metabox .file-status {
+    display: none; }
+  #modern_slider_metabox .ui-slider-range {
+    background: #000;
+    border-radius: 0; }
+  #modern_slider_metabox .ui-slider {
+    border: 2px solid #000;
+    border-radius: 0; }
+  #modern_slider_metabox .ui-slider-handle {
+    background: #000;
+    border-color: #000;
+    border-radius: 0; }
